@@ -1,0 +1,11 @@
+@media(max-width: 600px) {
+    .container {
+        width: 100vw;
+    }
+
+    .slide:nth-of-type(4), .slide:nth-of-type(5) {
+        display: none;
+    }
+
+
+}
